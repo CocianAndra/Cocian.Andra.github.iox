@@ -1,0 +1,28 @@
+[Log] true (examples.js, line 2)
+[Info] page loaded (examples.js, line 3)
+[Debug] 3 (examples.js, line 4)
+[Warning] 8 (examples.js, line 5)
+[Error] hellothere
+	Global Code (examples.js:6)
+[Info] I'm employed – false (examples.js, line 11)
+[Info] boolean (examples.js, line 12)
+[Warning] age – 33 – "number" (examples.js, line 13)
+[Info] My name is – "Nick" – "string" (examples.js, line 14)
+[Warning] age – 35 – "number" (examples.js, line 17)
+[Warning] age – "18" – "string" (examples.js, line 19)
+[Debug]  (2) (examples.js, line 23)
+["HTML", "CSS", "JS"] (3)
+"object"
+[Info]  (3) (examples.js, line 29)
+{employed: true, age: 29}
+29
+"object"
+[Warning]  (2) (examples.js, line 32)
+<h2 id="job-title">Web developer</h2>
+"object"
+[Info]  Singing Coach  and Web developer (examples.js, line 34)
+[Info] Web developer (examples.js, line 36)
+> jobtitle.style.color
+< ""
+> jobtitle.style.color = 'red'
+< "red"
